@@ -12,7 +12,6 @@ title_separator          : "-"
 name                     : &name "Chen-Ti Chen"
 description              : &description "Assistant Professor, The Ohio State University"
 url                      : https://www.chentichen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : https://chenti-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenti-chen/chenti-chen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +86,8 @@ author:
   location         : "Columbus, OH, USA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=or88cqMAAAAJ&hl=en&authuser=1"
+  #googlescholar    : "https://scholar.google.com/citations?user=or88cqMAAAAJ&hl=en&authuser=1"
+  googlescholar    : <a href="https://scholar.google.com/citations?user=or88cqMAAAAJ&hl=en&authuser=1" target="_blank">link</a>
   email            : chen.13041@osu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
