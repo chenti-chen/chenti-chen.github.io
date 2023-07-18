@@ -1,0 +1,38 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+<!---
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+--->
+
+## Peer Reviewd Publications
+
+### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang. Food Policy. 105: 102152, 2021.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
+
+### [Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602) *<font size="2">With John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha. Agricultural Economics. 51(6): 941-958, 2020.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
+
+
+## Working Papers
+
+### Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser.</font>* [<font size="2">(Abstract)</font>](cafo_cwa_water)
+
+## Selected works in progress
+
+### Improving Benefits of the Conservation Reserve Program for Biodiversity. *<font size="2">With Alison Johnston, Catherine Kling, Amanda Rodewald, and Ivan Rudik.</font>* [<font size="2">(Abstract)</font>](crp_birds)
+
+### Property Value, Homeowner Wealth and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
+
+### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
+

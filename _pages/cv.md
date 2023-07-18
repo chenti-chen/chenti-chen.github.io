@@ -9,23 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[PDF Version](https://drive.google.com/file/d/11_BkTFhodZsv9rsiXDVPmJ8ahv68UE6h/view?usp=share_link){:target="_blank"}
 
-Work experience
+<!---
+ 
+Academic Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Department of Agricultural, Environmental, and Development Economics, The Ohio State University (Aug. 2023-)
+
+* Postdoctoral Research Associate, Charles Dyson School of Applied Economics and Management, Cornell University (Jun. 2021–May 2023)
+
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+
+Education
+======
+* Ph.D in Economics, Iowa State University, 2021
+* M.S. in Agricultural and Resource Economics, University of California, Davis, 2015
+* B.S. in Agricultural Economics, National Taiwan University, 2012
   
 Skills
 ======
@@ -57,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+--->
