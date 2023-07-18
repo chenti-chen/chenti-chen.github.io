@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 --->
 
-## Peer Reviewd Publications
+## Peer Reviewed Publications
 
 ### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang. Food Policy. 105: 102152, 2021.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
 
@@ -28,7 +28,7 @@ author_profile: true
 
 ### Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser.</font>* [<font size="2">(Abstract)</font>](cafo_cwa_water)
 
-## Selected works in progress
+## Selected Works in Progress
 
 ### Improving Benefits of the Conservation Reserve Program for Biodiversity. *<font size="2">With Alison Johnston, Catherine Kling, Amanda Rodewald, and Ivan Rudik.</font>* [<font size="2">(Abstract)</font>](crp_birds)
 
