@@ -21,6 +21,8 @@ author_profile: true
 
 ### [The United States' Competitive Positions in Beef, Corn, Pork, Soy, and Wheat Exports: 1980–2019.](https://www.card.iastate.edu/ag_policy_review/article/?a=119) *<font size="2">C.-T. Chen, J.M. Crespi, and Y. Ji. CARD Agricultural Policy Review, Winter 2021.</font>* 
 
+#### Animation tool to display relative competitive positions of the major exporters for selected commoditirs.
+
 ### [Large Hog Companies Gain from China’s Ongoing African Swine Fever.](https://www.card.iastate.edu/ag_policy_review/article/?a=111) *<font size="2">C.-T. Chen, T. Xiong, and W. Zhang. CARD Agricultural Policy Review, Spring 2020.</font>*
 
 ### [The United States' Fraught Competitive Position in the World Wheat Market.](https://www.card.iastate.edu/products/publications/pdf/19pb27.pdf) *<font size="2">J.M. Crespi and C.-T. Chen. 2019. No. 19 -PB 27. CARD Policy Briefs.</font>* 
