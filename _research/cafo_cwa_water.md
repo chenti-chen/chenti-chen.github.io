@@ -13,9 +13,12 @@ _With Gabriel E. Lade, John M. Crespi, and David A. Keiser_
 </center>
 -->
 
+[Working paper>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
+
 **Abstract**
 
-Agricultural nutrients are a primary source of water pollution in the United States. The growing prevalence of concentrated animal feeding operations (CAFOs) in the U.S. Midwest raises concerns among the public and regulators about their impact on local environmental quality. This paper studies the effects of the 2003 Clean Water Act regulations on surface water pollution associated with hog CAFOs in Iowa. We compile a novel dataset linking historical regulatory records to downstream surface water pollutant monitors. The regulation decreased ammonia concentrations downstream of CAFOs by 6 to 9 percentage points, modestly improved dissolved oxygen concentrations, but did not reduce phosphorus concentrations. Pollution reductions are largest during heavy precipitation months, consistent with the regulations reducing on-site spills and local field runoff of nutrients. However, we also find evidence of increased pollution from regulated medium-sized facilities. We show that the overall the regulatory updates had little discernible impact on any water quality measure, raising concerns regarding the overall benefits of the regulation.
+The growing prevalence of animal feeding operations (AFOs) in the United States raises concerns among the public and regulators about their impact on local environmental quality. This paper studies the effects of Clean Water Act regulations that targeted water pollution from the largest hog AFOs. We compile a novel dataset linking historical regulatory records of AFOs in
+Iowa to downstream surface water pollution monitors. The regulation decreased ammonia concentrations downstream of large AFOs by 6 to 9 percentage points and modestly improved dissolved oxygen concentrations, but did not reduce phosphorus concentrations. Pollution reductions are largest during heavy precipitation months, consistent with the regulations reducing on-site spills and nutrient runoff from local fields. However, we find that pollution increased downstream from mid-sized AFOs, which were exempt from the regulations. Given the growth in the number of mid-sized facilities relative to large AFOs, we estimate that the regulation had little discernible impact on overall water quality.
 
 
 <!---
