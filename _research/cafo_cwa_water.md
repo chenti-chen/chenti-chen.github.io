@@ -13,8 +13,6 @@ _With Gabriel E. Lade, John M. Crespi, and David A. Keiser_
 </center>
 -->
 
-[Working paper>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
-
 **Abstract**
 
 The growing prevalence of animal feeding operations (AFOs) in the United States raises concerns among the public and regulators about their impact on local environmental quality. This paper studies the effects of Clean Water Act regulations that targeted water pollution from the largest hog AFOs. We compile a novel dataset linking historical regulatory records of AFOs in
