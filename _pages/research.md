@@ -36,5 +36,7 @@ author_profile: true
 
 ### Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
 
+### Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997. *<font size="2">With Feng-An Yang and Yau-Huo Shr</font>*
+
 ### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
 
