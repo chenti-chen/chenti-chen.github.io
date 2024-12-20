@@ -32,7 +32,9 @@ author_profile: true
 
 ### Improving Benefits of the Conservation Reserve Program for Biodiversity. *<font size="2">With Alison Johnston, Catherine Kling, Amanda Rodewald, and Ivan Rudik.</font>* [<font size="2">(Abstract)</font>](crp_birds)
 
-### Property Value, Homeowner Wealth and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
+### Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations. *<font size="2">With Yongjie Ji, Qinan Lu, and Wendong Zhang.</font>*
+
+### Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
 
 ### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
 
