@@ -26,7 +26,7 @@ author_profile: true
 
 ## Working Papers
 
-### Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. (R&R at American Journal of Agricultural Economics)</font>* [<font size="2">(Working paper)</font>](https://www.card.iastate.edu/products/publications/pdf/24wp657.pdf) [<font size="2">(Abstract)</font>](cafo_cwa_water)
+### Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. (Conditionally accepted at American Journal of Agricultural Economics)</font>* [<font size="2">(Working paper)</font>](https://www.card.iastate.edu/products/publications/pdf/24wp657.pdf) [<font size="2">(Abstract)</font>](cafo_cwa_water)
 
 ## Selected Works in Progress
 
