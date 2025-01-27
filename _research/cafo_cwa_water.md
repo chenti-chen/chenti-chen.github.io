@@ -1,6 +1,6 @@
 ---
-title: "Size-Based Regulation and Environmental Quality:
-Evidence from the U.S. Livestock Industry"
+title: "Size-Based Regulation and Water Quality:
+Evidence from the Iowa Hog Industry"
 collection: research
 permalink: /research/cafo_cwa_water
 ---
