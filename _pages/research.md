@@ -34,9 +34,10 @@ author_profile: true
 
 ### Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations. *<font size="2">With Yongjie Ji, Qinan Lu, and Wendong Zhang.</font>*
 
-### Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
+### Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji, Tracy Turner, and Jingke Wu.</font>*
 
-### Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997. *<font size="2">With Feng-An Yang and Yau-Huo Shr</font>*
+### Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997. *<font size="2">With Feng-An Yang and Yau-Huo Shr.</font>*
 
 ### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
 
+### Do Birds Help or Hurt Row Crop Yields? Plot-Level Evidence from Seed Trials. *<font size="2">With Seungki Lee and Wendong Zhang.</font>*
