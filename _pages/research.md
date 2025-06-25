@@ -26,7 +26,7 @@ author_profile: true
 
 ## Working Papers
 
-### Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. (Forthcoming at American Journal of Agricultural Economics)</font>* [<font size="2">(Working paper)</font>](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&dl=0) [<font size="2">(Abstract)</font>](cafo_cwa_water)
+### Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. (Forthcoming at American Journal of Agricultural Economics)</font>* [<font size="2">(Working paper)</font>](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1) [<font size="2">(Abstract)</font>](cafo_cwa_water)
 
 ## Selected Works in Progress
 
