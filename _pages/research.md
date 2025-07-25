@@ -19,11 +19,14 @@ author_profile: true
 
 ## Peer Reviewed Publications
 
-### [Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry.](https://doi.org/10.1111/ajae.70006) *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. American Journal of Agricultural Economics. 2025</font>* [<font size="2">(Ungated)</font>](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1) [<font size="2">(Code)</font>](https://github.com/chenti-chen/cafos-cwa)
+### [Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry.](https://doi.org/10.1111/ajae.70006) *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser.</font>* <br> 
+American Journal of Agricultural Economics. 2025. [<font size="2">(Ungated)</font>](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1) [<font size="2">(Code)</font>](https://github.com/chenti-chen/cafos-cwa)
 
-### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang. Food Policy. 2021.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
+### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang.</font>* <br>  
+Food Policy. 2021. [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
 
-### [Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602) *<font size="2">With John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha. Agricultural Economics. 2020.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
+### [Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602) *<font size="2">With John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha.</font>* <br>  
+Agricultural Economics. 2020. [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
 
 <!---
 ## Working Papers
