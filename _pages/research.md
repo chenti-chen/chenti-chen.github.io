@@ -19,14 +19,20 @@ author_profile: true
 
 ## Peer Reviewed Publications
 
-### [Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry.](https://doi.org/10.1111/ajae.70006) *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser.</font>* <br> 
-American Journal of Agricultural Economics. 2025. [<font size="2">(Ungated)</font>](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1) [<font size="2">(Code)</font>](https://github.com/chenti-chen/cafos-cwa)
+**[Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry.](https://doi.org/10.1111/ajae.70006)**  
+Chen-Ti Chen, Gabriel E. Lade, John M. Crespi, and David A. Keiser. 2025.  
+***American Journal of Agricultural Economics.***  
+[[Ungated](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1)][[code](https://github.com/chenti-chen/cafos-cwa)]
 
-### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang.</font>* <br>  
-Food Policy. 2021. [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
+**[A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150)**  
+Tao Xiong, Wendong Zhang, and Chen-Ti Chen. 2021.  
+***Food Policy.***  
+[[Ungated](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)]
 
-### [Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602) *<font size="2">With John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha.</font>* <br>  
-Agricultural Economics. 2020. [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
+**[Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602)**  
+Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha. 2020.  
+***Agricultural Economics.***  
+[[Ungated](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)]
 
 <!---
 ## Working Papers
@@ -35,14 +41,20 @@ Agricultural Economics. 2020. [<font size="2">(Ungated)</font>](https://www.card
 
 ## Selected Works in Progress
 
-### Improving Benefits of the Conservation Reserve Program for Biodiversity. *<font size="2">With Alison Johnston, Catherine Kling, Amanda Rodewald, and Ivan Rudik.</font>* [<font size="2">(Abstract)</font>](crp_birds)
+**Improving Benefits of the Conservation Reserve Program for Biodiversity.**  
+with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. [<font size="2">(Abstract)</font>](crp_birds)
 
-### Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations. *<font size="2">With Yongjie Ji, Qinan Lu, and Wendong Zhang.</font>*
+**Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations.**  
+with Yongjie Ji, Qinan Lu, and Wendong Zhang.
 
-### Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji, Tracy Turner, and Jingke Wu.</font>*
+**Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses.**  
+with Yongjie Ji, Tracy Turner, and Jingke Wu.
 
-### Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997. *<font size="2">With Feng-An Yang and Yau-Huo Shr.</font>*
+**Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997.**  
+with Feng-An Yang.
 
-### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
+**Do Birds Help or Hurt Row Crop Yields? Plot-Level Evidence from Seed Trials.**  
+with Seungki Lee and Wendong Zhang.
 
-### Do Birds Help or Hurt Row Crop Yields? Plot-Level Evidence from Seed Trials. *<font size="2">With Seungki Lee and Wendong Zhang.</font>*
+**The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity.**  
+with John M. Crespi.
