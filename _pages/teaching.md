@@ -13,6 +13,12 @@ author_profile: true
 {% endfor %}
 --->
 
+## Instructor
+
+### Department of Agricultural, Environmental, and Development Economics, Ohio State University
+
+#### Economics of Public Policy Analysis: *<font size="1">Spring 2024</font>*
+
 ## Guest Lecturer
 
 ### Department of Economics, Iowa State University

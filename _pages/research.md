@@ -19,20 +19,42 @@ author_profile: true
 
 ## Peer Reviewed Publications
 
-### [A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150) *<font size="2">With Tao Xiong and Wendong Zhang. Food Policy. 105: 102152, 2021.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)
+**[Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry.](https://doi.org/10.1111/ajae.70006)**  
+Chen-Ti Chen, Gabriel E. Lade, John M. Crespi, and David A. Keiser. 2025.  
+***American Journal of Agricultural Economics.***  
+[[Ungated](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&raw=1)][[code](https://github.com/chenti-chen/cafos-cwa)]
 
-### [Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602) *<font size="2">With John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha. Agricultural Economics. 51(6): 941-958, 2020.</font>* [<font size="2">(Ungated)</font>](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)
+**[A Fortune from Misfortune: Evidence from Hog Firms' Stock Price Responses to China's African Swine Fever.](https://doi.org/10.1016/j.foodpol.2021.102150)**  
+Tao Xiong, Wendong Zhang, and Chen-Ti Chen. 2021.  
+***Food Policy.***  
+[[Ungated](https://www.card.iastate.edu/products/publications/synopsis/?p=1304)]
 
+**[Long-Run Impacts of Trade Shocks and Export Competitiveness: Evidence from the U.S. BSE Event.](https://doi.org/10.1111/agec.12602)**  
+Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha. 2020.  
+***Agricultural Economics.***  
+[[Ungated](https://www.card.iastate.edu/products/publications/pdf/19wp594.pdf)]
 
+<!---
 ## Working Papers
+--->
 
-### Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry. *<font size="2">With Gabriel E. Lade, John M. Crespi, and David A. Keiser. (R&R at American Journal of Agricultural Economics)</font>* [<font size="2">(Working paper)</font>](https://www.card.iastate.edu/products/publications/pdf/24wp657.pdf) [<font size="2">(Abstract)</font>](cafo_cwa_water)
 
 ## Selected Works in Progress
 
-### Improving Benefits of the Conservation Reserve Program for Biodiversity. *<font size="2">With Alison Johnston, Catherine Kling, Amanda Rodewald, and Ivan Rudik.</font>* [<font size="2">(Abstract)</font>](crp_birds)
+**Improving Benefits of the Conservation Reserve Program for Biodiversity.**  
+with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. [<font size="2">(Abstract)</font>](crp_birds)
 
-### Property Value, Homeowner Wealth and Sorting Effects from Locally Undesirable Land Uses. *<font size="2">With Yongjie Ji and Tracy Turner.</font>*
+**Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations.**  
+with Yongjie Ji, Qinan Lu, and Wendong Zhang.
 
-### The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity. *<font size="2">With John M. Crespi.</font>*
+**Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses.**  
+with Yongjie Ji, Tracy Turner, and Jingke Wu.
 
+**Hog Production and Environmental Quality: Evidence from Taiwan's Foot-and-Mouth Disease Outbreak in 1997.**  
+with Feng-An Yang.
+
+**Do Birds Help or Hurt Row Crop Yields? Plot-Level Evidence from Seed Trials.**  
+with Seungki Lee and Wendong Zhang.
+
+**The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity.**  
+with John M. Crespi.
