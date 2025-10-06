@@ -55,6 +55,3 @@ with Feng-An Yang.
 
 **Do Birds Help or Hurt Row Crop Yields? Plot-Level Evidence from Seed Trials.**  
 with Seungki Lee and Wendong Zhang.
-
-**The Clean Water Act and CAFOs: Effects of Regulatory Avoidance on Productivity.**  
-with John M. Crespi.
