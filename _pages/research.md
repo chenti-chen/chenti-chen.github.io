@@ -42,9 +42,9 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 ## Selected Works in Progress
 
 **Improving Benefits of the Conservation Reserve Program for Biodiversity.**  
-with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. [<font size="2">(Abstract)</font>](crp_birds)
+with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik.
 
-**Livestock Production and Farmland Value Premium: Evidence from Competitive Bidding by Concentrated Animal Feeding Operations.**  
+**Large Livestock Facilities and Farmland Value Premium: Evidence from Competitive Bidding.**  
 with Yongjie Ji, Qinan Lu, and Wendong Zhang.
 
 **Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses.**  
