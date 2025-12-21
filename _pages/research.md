@@ -45,7 +45,7 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik.
 
 **Large Livestock Facilities and Farmland Values: Evidence from Competitive Bidding.**  
-with Yongjie Ji, Qinan Lu, and Wendong Zhang.
+with Yongjie Ji, Qinan Lu, and Wendong Zhang. *Under Review.*
 
 **Property Value, Homeowner Wealth, and Sorting Effects from Locally Undesirable Land Uses.**  
 with Yongjie Ji, Tracy Turner, and Jingke Wu.
