@@ -41,7 +41,7 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 
 ## Selected Works in Progress
 
-**Improving Benefits of the Conservation Reserve Program for Biodiversity.**  
+**Quantifying the Benefits of the Conservation Reserve Program for Grassland Birds.**  
 with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik.
 
 **Large Livestock Facilities and Farmland Values: Evidence from Competitive Bidding.**  
