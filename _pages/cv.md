@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<!---
 [PDF Version](https://drive.google.com/file/d/11_BkTFhodZsv9rsiXDVPmJ8ahv68UE6h/view?usp=share_link){:target="_blank"}
-
+--->
+[PDF Version]({{ base_path }}/files/cv_chentichen.pdf){:target="_blank"}
 <!---
  
 Academic Appointments
