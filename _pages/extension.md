@@ -15,7 +15,7 @@ author_profile: true
 
 ## Outreach Publications (Non-Peer Reviewed)
 
-### [Economic Perspective on the U.S. Livestock Market.](https://aede.osu.edu/sites/aede/files/AEDEbulletin_livestock_final.pdf) *<font size="2">Z. Sun and C.-T. Chen. AEDE Bulletins, Department of Agricultural, Environmental, and Development Economics, The Ohio State University, 17 October 2025.</font>*
+### [Economic Perspective on the U.S. Livestock Market.](https://aede.osu.edu/sites/default/files/2026-04/AEDEbulletin_livestock_final.pdf) *<font size="2">Z. Sun and C.-T. Chen. AEDE Bulletins, Department of Agricultural, Environmental, and Development Economics, The Ohio State University, 17 October 2025.</font>*
 
 ### [The United States' Competitive Positions in Beef, Corn, Pork, Soy, and Wheat Exports: 1980–2023.](https://agpolicyreview.card.iastate.edu/united-states-competitive-positions-beef-corn-pork-soy-and-wheat-exports-1980-2023) *<font size="2">C.-T. Chen, J.M. Crespi, and Y. Ji. CARD Agricultural Policy Review, Winter 2025.</font>*
 
