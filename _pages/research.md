@@ -39,7 +39,7 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 ## Working Papers
 
 **Bird Returns on Public Investment in the Conservation Reserve Program.**  
-with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. *RnR at Nature Communications.*
+with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. ***RnR at Nature Communications.***
 
 
 ## Selected Works in Progress
