@@ -146,8 +146,48 @@ h1, h2, h3, h4 {
   color: $muted;
 }
 
+.archive h3 em {
+  font-style: normal; /* extension citations read roman, like research author lines */
+}
+
 .archive h3 a font[size] {
   color: inherit; /* links inside citations keep their scarlet */
+}
+
+/* ---- interactive-tool preview card (extension page) ---- */
+.archive a.tool-card {
+  display: block;
+  max-width: 440px;
+  margin: 12px 0 8px 24px;
+  border: 1px solid $hairline;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  text-decoration: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+
+  img {
+    display: block;
+    width: 100%;
+  }
+
+  .tool-card-caption {
+    display: block;
+    padding: 10px 14px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: $muted;
+    border-top: 1px solid $hairline;
+  }
+
+  &:hover {
+    border-color: #cfcfcf;
+    box-shadow: 0 2px 10px rgba(26, 29, 33, 0.08);
+
+    .tool-card-caption {
+      color: $osu-scarlet;
+    }
+  }
 }
 
 /* ---- sidebar author card ---- */

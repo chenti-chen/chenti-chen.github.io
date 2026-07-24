@@ -21,7 +21,7 @@ author_profile: true
 
 ### [The United States' Competitive Positions in Beef, Corn, Pork, Soy, and Wheat Exports: 1980–2019.](https://www.card.iastate.edu/ag_policy_review/article/?a=119) *<font size="2">C.-T. Chen, J.M. Crespi, and Y. Ji. CARD Agricultural Policy Review, Winter 2021.</font>* 
 
-&emsp; <font size="2">This</font> [<font size="2">Animation tool</font>](https://www.card.iastate.edu/tools/ag-exports/bubble/) <font size="2">displays relative competitive positions of U.S. and major exporters for beef, pork, corn, wheat, and soybean.</font>
+<a class="tool-card" href="https://www.card.iastate.edu/tools/ag-exports/bubble/" target="_blank" rel="noopener"><img src="/images/ag-exports-tool-preview.png" alt="Bubble chart of revealed comparative advantage in agricultural exports, 1980–2023: flag bubbles for six major exporting countries plotted by commodity and country export shares"><span class="tool-card-caption">Interactive animation: relative competitive positions of the U.S. and major exporters for beef, pork, corn, wheat, and soybean →</span></a>
 
 ### [Large Hog Companies Gain from China’s Ongoing African Swine Fever.](https://www.card.iastate.edu/ag_policy_review/article/?a=111) *<font size="2">C.-T. Chen, T. Xiong, and W. Zhang. CARD Agricultural Policy Review, Spring 2020.</font>*
 
