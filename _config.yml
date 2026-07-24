@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag" (GA4), "custom"
   google:
-    tracking_id          :
+    tracking_id          : # paste GA4 Measurement ID here (G-XXXXXXXXXX); nothing is emitted while empty
 
 
 # Site Author
