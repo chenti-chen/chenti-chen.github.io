@@ -17,7 +17,9 @@ author_profile: true
 
 ### Department of Agricultural, Environmental, and Development Economics, Ohio State University
 
-#### Economics of Public Policy Analysis: *<font size="1">Spring 2024</font>*
+#### Advanced Agricultural Economics: *<font size="1">Spring 2026 —</font>*
+
+#### Economics of Public Policy Analysis: *<font size="1">Spring 2024 —</font>*
 
 ## Guest Lecturer
 

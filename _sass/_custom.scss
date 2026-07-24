@@ -150,6 +150,17 @@ h1, h2, h3, h4 {
   font-style: normal; /* extension citations read roman, like research author lines */
 }
 
+/* teaching course terms (h4): gray roman, sized like other metadata */
+.archive h4 em {
+  font-style: normal;
+}
+
+.archive h4 font[size] {
+  font-size: 13.5px;
+  font-weight: 400;
+  color: $muted;
+}
+
 .archive h3 a font[size] {
   color: inherit; /* links inside citations keep their scarlet */
 }
