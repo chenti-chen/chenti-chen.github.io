@@ -1,0 +1,197 @@
+/* ==========================================================================
+   Custom restyle — clean modern sans + OSU scarlet (2026-07)
+   All local overrides live here; upstream partials stay untouched.
+   ========================================================================== */
+
+$hairline: #ececec;
+$muted: #5c6268;
+
+/* ---- global type ---- */
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.015em;
+}
+
+::selection {
+  background: rgba(187, 0, 0, 0.12);
+}
+
+/* ---- masthead / nav ---- */
+.masthead {
+  background: #fff;
+  border-bottom: 1px solid $hairline;
+  box-shadow: none;
+}
+
+.masthead__menu-item--lg a {
+  font-weight: 700;
+}
+
+.greedy-nav a {
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: $osu-scarlet;
+}
+
+/* hamburger: no gray slab — transparent with dark bars, scarlet on hover */
+.greedy-nav button {
+  background-color: transparent;
+}
+
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after {
+  background: #1a1d21;
+}
+
+.greedy-nav button:hover .navicon,
+.greedy-nav button:hover .navicon:before,
+.greedy-nav button:hover .navicon:after {
+  background: $osu-scarlet;
+}
+
+/* ---- content ---- */
+.page__title {
+  font-weight: 700;
+  font-size: 2em;
+  margin-bottom: 0.6em;
+}
+
+/* home/single pages use .page__content; CV/Research/Teaching/Extension use .archive */
+.page__content,
+.archive {
+  h2 {
+    font-weight: 700;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $hairline;
+  }
+
+  h3 {
+    font-weight: 600;
+  }
+
+  a {
+    color: $osu-scarlet;
+    text-decoration: underline;
+    text-decoration-color: rgba(187, 0, 0, 0.3);
+    text-underline-offset: 3px;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+    &:hover {
+      color: $osu-scarlet-dark;
+      text-decoration-color: $osu-scarlet-dark;
+    }
+
+    &:visited {
+      color: $osu-scarlet;
+    }
+  }
+
+  p {
+    line-height: 1.65;
+  }
+
+  /* bold or heading links (paper titles): scarlet but calm — underline only on hover */
+  strong a,
+  b a,
+  h1 a,
+  h2 a,
+  h3 a,
+  h4 a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+  }
+}
+
+/* ---- sidebar author card ---- */
+.author__avatar img {
+  border-radius: 14px;
+  border: 1px solid $hairline;
+}
+
+.author__name {
+  font-weight: 700;
+}
+
+.author__bio {
+  color: $muted;
+  line-height: 1.5;
+}
+
+.author__urls {
+  li {
+    color: $muted;
+  }
+
+  a {
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: $osu-scarlet;
+      text-decoration: none;
+    }
+  }
+
+  /* monochrome icons instead of per-brand colors */
+  .fa, .fas, .fab, .far, .fa-fw {
+    color: #6f757c;
+  }
+}
+
+/* theme's .btn/.btn--inverse use !important, so overrides must too */
+.author__urls-wrapper button.btn--inverse {
+  background: #fff !important;
+  color: $osu-scarlet !important;
+  border: 1px solid $osu-scarlet !important;
+  border-radius: 6px;
+
+  &:hover {
+    background: $osu-scarlet !important;
+    color: #fff !important;
+  }
+}
+
+/* ---- buttons ---- */
+.btn {
+  border-radius: 6px;
+}
+
+.page__content .btn,
+.archive .btn {
+  background-color: $osu-scarlet;
+
+  &:hover {
+    background-color: $osu-scarlet-dark;
+  }
+}
+
+/* ---- footer ---- */
+.page__footer {
+  background: #fff;
+  border-top: 1px solid $hairline;
+  color: $muted;
+
+  footer {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  a {
+    color: $muted;
+
+    &:hover {
+      color: $osu-scarlet;
+    }
+  }
+}
