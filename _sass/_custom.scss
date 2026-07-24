@@ -114,6 +114,42 @@ h1, h2, h3, h4 {
   }
 }
 
+/* ---- publication entries: sizes follow gabe-lade.github.io ----
+   title 16.5px / metadata 13.5px muted, per Gabe's .pub component.
+   Research: one <p> per pub starting with <strong><a>title</a></strong>.
+   Extension: <h3><a>title</a> <em><font size=2>citation</font></em></h3>. */
+.archive p:has(> strong:first-child) {
+  font-size: 13.5px; /* authors, year, status, bracket links */
+  line-height: 1.5;
+  color: $muted;
+
+  > strong:first-child {
+    font-size: 16.5px; /* title — linked (scarlet) or not (near-black) */
+    line-height: 1.35;
+    color: #1a1d21;
+  }
+
+  strong em {
+    color: #3f444a; /* journal / RnR status: a step darker than authors */
+  }
+}
+
+.archive h3:has(> a) {
+  font-size: 16.5px;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.archive h3 font[size] {
+  font-size: 13.5px;
+  font-weight: 400;
+  color: $muted;
+}
+
+.archive h3 a font[size] {
+  color: inherit; /* links inside citations keep their scarlet */
+}
+
 /* ---- sidebar author card ---- */
 .author__avatar img {
   border-radius: 14px;
