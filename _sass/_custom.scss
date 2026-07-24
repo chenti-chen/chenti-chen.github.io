@@ -207,7 +207,11 @@ h1, h2, h3, h4 {
   border: 1px solid $hairline;
 }
 
-/* mobile: avatar as tall as the four author lines beside it (desktop untouched) */
+.nowrap {
+  white-space: nowrap;
+}
+
+/* mobile: avatar as tall as the author lines beside it (desktop untouched) */
 @media (max-width: 924px) {
   .author__avatar {
     width: 120px;
@@ -216,6 +220,15 @@ h1, h2, h3, h4 {
   .author__avatar img {
     width: 120px;
     max-width: 120px;
+  }
+
+  /* give the bio column room so the nowrap university line always fits */
+  .author__content {
+    padding-right: 10px;
+  }
+
+  .author__bio {
+    font-size: 14px;
   }
 }
 
