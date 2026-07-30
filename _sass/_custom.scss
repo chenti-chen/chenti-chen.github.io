@@ -168,7 +168,7 @@ h1, h2, h3, h4 {
 /* ---- interactive-tool preview card (extension page) ---- */
 .archive a.tool-card {
   display: block;
-  max-width: 440px;
+  max-width: 360px;
   margin: 12px 0 8px 24px;
   border: 1px solid $hairline;
   border-radius: 8px;
@@ -198,6 +198,39 @@ h1, h2, h3, h4 {
     .tool-card-caption {
       color: $osu-scarlet;
     }
+  }
+}
+
+/* ---- embedded video card (extension presentations) ---- */
+.archive .video-card {
+  max-width: 360px;
+  margin: 12px 0 8px;
+  border: 1px solid $hairline;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+
+  .video-frame {
+    position: relative;
+    padding-top: 56.25%; /* 16:9 */
+  }
+
+  .video-frame iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .video-card-caption {
+    display: block;
+    padding: 10px 14px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: $muted;
+    border-top: 1px solid $hairline;
   }
 }
 

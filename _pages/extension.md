@@ -13,7 +13,7 @@ author_profile: true
 {% endfor %}
 --->
 
-## Outreach Publications (Non-Peer Reviewed)
+## Publications (Non-Peer Reviewed)
 
 ### [Economic Perspective on the U.S. Livestock Market.](https://aede.osu.edu/sites/default/files/2026-04/AEDEbulletin_livestock_final.pdf) *<font size="2">Z. Sun and C.-T. Chen. AEDE Bulletins, Department of Agricultural, Environmental, and Development Economics, The Ohio State University, 17 October 2025.</font>*
 
@@ -32,4 +32,8 @@ author_profile: true
 ### [Environmental Regulation of Hog Feeding Operations.](https://www.card.iastate.edu/ag_policy_review/article/?a=81) *<font size="2">C.-T. Chen and G.E. Lade. CARD Agricultural Policy Review, Spring 2018.</font>*  
 
 ### [US Export Beef Competitiveness: Do Cattle Inventories Matter?](https://www.card.iastate.edu/ag_policy_review/article/?a=65) *<font size="2">C.-T. Chen, J.M. Crespi, and L.L. Schulz. CARD Agricultural Policy Review, Spring 2017.</font>*  
+
+## Presentations
+
+<div class="video-card"><div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/aD9mHGJZI2Y" title="The economic value of birds in U.S. agriculture and the impact of conservation" loading="lazy" allowfullscreen></iframe></div><span class="video-card-caption">The economic value of birds in U.S. agriculture and the impact of conservation. Outreach presentation, AEDE, The Ohio State University.</span></div>
 
