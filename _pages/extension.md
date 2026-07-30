@@ -35,5 +35,7 @@ author_profile: true
 
 ## Presentations
 
-<div class="video-card"><div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/aD9mHGJZI2Y" title="The economic value of birds in U.S. agriculture and the impact of conservation" loading="lazy" allowfullscreen></iframe></div><span class="video-card-caption">The economic value of birds in U.S. agriculture and the impact of conservation. Outreach presentation, AEDE, The Ohio State University.</span></div>
+### The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts. *<font size="2">Economic Outlook and Policy Webinar Series, June 2026.</font>*
+
+<div class="video-card"><iframe src="https://www.youtube-nocookie.com/embed/aD9mHGJZI2Y?start=5" title="The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts" loading="lazy" allowfullscreen></iframe></div>
 
