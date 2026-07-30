@@ -157,9 +157,10 @@ h1, h2, h3, h4 {
   font-style: normal; /* extension citations read roman, like research author lines */
 }
 
-/* teaching course lines (h4): stack with no gap */
+/* teaching course lines (h4): stack with no gap, names in scarlet */
 .archive h4 {
   margin: 0;
+  color: $osu-scarlet;
 }
 
 /* teaching course terms (h4): gray roman, sized like other metadata */
