@@ -139,6 +139,12 @@ h1, h2, h3, h4 {
   font-size: 16.5px;
   line-height: 1.35;
   font-weight: 600;
+  margin-top: 18px; /* entry gap matches the research section */
+  margin-bottom: 8px;
+}
+
+.archive h3:has(font) {
+  color: $osu-scarlet; /* unlinked entry titles (presentations) read like pub titles */
 }
 
 .archive h3 font[size] {
@@ -149,6 +155,11 @@ h1, h2, h3, h4 {
 
 .archive h3 em {
   font-style: normal; /* extension citations read roman, like research author lines */
+}
+
+/* teaching course lines (h4): stack with no gap */
+.archive h4 {
+  margin: 0;
 }
 
 /* teaching course terms (h4): gray roman, sized like other metadata */
