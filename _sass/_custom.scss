@@ -129,8 +129,8 @@ h1, h2, h3, h4 {
     color: #1a1d21;
   }
 
-  strong em {
-    color: #3f444a; /* journal / RnR status: a step darker than authors */
+  em {
+    color: #1a1d21; /* journals and statuses (RnR, Under Review) read black */
   }
 }
 
