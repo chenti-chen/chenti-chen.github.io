@@ -35,7 +35,7 @@ author_profile: true
 
 ### [US Export Beef Competitiveness: Do Cattle Inventories Matter?](https://www.card.iastate.edu/ag_policy_review/article/?a=65) *<font size="2">C.-T. Chen, J.M. Crespi, and L.L. Schulz. CARD Agricultural Policy Review, Spring 2017.</font>*  
 
-## Presentations
+## Recent Presentations
 
 ### The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts. *<font size="2">Economic Outlook and Policy Webinar Series, June 2026.</font>*
 
