@@ -42,7 +42,7 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. ***RnR at Nature Communications.***
 
 **Large Livestock Facilities and Farmland Values: Evidence from Competitive Bidding.**  
-with Yongjie Ji, Qinan Lu, and Wendong Zhang. ***Under Review.***
+with Yongjie Ji, Qinan Lu, and Wendong Zhang. ***RnR at Land Economics.***
 
 
 ## Selected Works in Progress
