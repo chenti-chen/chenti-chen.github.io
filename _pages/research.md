@@ -39,10 +39,10 @@ Chen-Ti Chen, John. M. Crespi, William F. Hahn, Lee L. Schulz, and Fawzi A. Taha
 ## Working Papers
 
 **Bird Returns on Public Investment in the Conservation Reserve Program.**  
-with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. ***RnR at Nature Communications.***
+with Alison Johnston, Catherine Kling, Tianjiao Mei, Amanda Rodewald, and Ivan Rudik. ***R&R at Nature Communications.***
 
 **Large Livestock Facilities and Farmland Values: Evidence from Competitive Bidding.**  
-with Yongjie Ji, Qinan Lu, and Wendong Zhang. ***RnR at Land Economics.***
+with Yongjie Ji, Qinan Lu, and Wendong Zhang. ***R&R at Land Economics.***
 
 
 ## Selected Works in Progress
