@@ -37,11 +37,11 @@ author_profile: true
 
 ## Recent Presentations
 
-### The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts. *<font size="2">Economic Outlook and Policy Webinar Series, June 2026.</font>*
+### The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts. *<font size="2">Economic Outlook and Policy Webinar Series, Department of Agricultural, Environmental, and Development Economics, The Ohio State University, June 2026.</font>*
 
 <div class="video-card"><iframe src="https://www.youtube-nocookie.com/embed/aD9mHGJZI2Y?start=5" title="The Economic Value of Birds in U.S. Agriculture and the Impact of Conservation Efforts" loading="lazy" allowfullscreen></iframe></div>
 
-### 2025 Livestock Outlook. *<font size="2">2025 Agricultural Outlook and Policy Conference, November 2025.</font>* [<font size="2">Slides</font>](https://cfaes-aede.org.ohio-state.edu/sites/default/files/2026-04/Chen_Livestock%20Outlook_11.2025.pdf)
+### 2025 Livestock Outlook. *<font size="2">2025 Agricultural Outlook and Policy Conference, Department of Agricultural, Environmental, and Development Economics, The Ohio State University, November 2025.</font>* [<font size="2">Slides</font>](https://cfaes-aede.org.ohio-state.edu/sites/default/files/2026-04/Chen_Livestock%20Outlook_11.2025.pdf)
 
 <div class="video-card"><iframe src="https://www.youtube-nocookie.com/embed/PoQwnMtj-IA" title="2025 Livestock Outlook, 2025 Agricultural Outlook and Policy Conference" loading="lazy" allowfullscreen></iframe></div>
 
