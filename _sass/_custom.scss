@@ -344,31 +344,72 @@ h1, h2, h3, h4 {
   }
 }
 
-/* ---- inline CV preview (cv page) ---- */
+/* ---- inline CV preview (cv page) ----
+   Pages are rendered lazily to canvases by assets/js/cv-preview.js (PDF.js),
+   so it works on phones too. On wide screens the box is page-shaped and
+   scrolls internally; on phones the pages simply flow in the document so
+   there is no nested scroll trap. */
 .cv-embed {
   margin: 16px 0 8px;
   border: 1px solid $hairline;
   border-radius: 8px;
-  overflow: hidden;
-  background: #fff;
+  background: #f1f2f3; /* gutter between pages */
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
 
-  iframe {
-    display: block;
-    width: 100%;
-    /* height tracks width at US Letter proportions, so the preview
-       scales with the window instead of leaving dead space */
-    height: auto;
-    aspect-ratio: #{17} / #{23}; /* 8.5x11 plus the viewer toolbar */
-    min-height: 420px;
-    border: 0;
+  &:focus-visible {
+    outline: 2px solid $osu-scarlet;
+    outline-offset: 2px;
   }
 }
 
+/* the page-shaped box appears only once the script is running */
+.cv-embed--loading,
+.cv-embed--loaded {
+  width: 100%; /* explicit, or max-height transfers through the ratio into max-width */
+  aspect-ratio: #{17} / #{22};
+  max-height: 85vh;
+  min-height: 240px;
+}
 
-/* mobile browsers generally refuse to render PDFs in an iframe */
-@media (max-width: 767px) {
-  .cv-embed {
-    display: none;
+.cv-embed__pages {
+  display: grid;
+  gap: 12px;
+  padding: 12px;
+}
+
+.cv-embed__slot {
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(26, 29, 33, 0.14);
+
+  canvas {
+    display: block;
+    width: 100%;
+    height: auto;
   }
+}
 
+/* "Loading" while pages render; becomes the fallback message on failure */
+.cv-embed__status {
+  margin: 0;
+  padding: 14px;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: $muted;
+}
+
+.cv-embed--loaded .cv-embed__status {
+  display: none;
+}
+
+/* phones: no inner scroller — pages flow with the page */
+@media (max-width: 767px) {
+  .cv-embed--loading,
+  .cv-embed--loaded {
+    aspect-ratio: auto;
+    max-height: none;
+    min-height: 0;
+    overflow: visible;
+  }
 }
