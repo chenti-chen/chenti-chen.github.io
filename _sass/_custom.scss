@@ -343,3 +343,28 @@ h1, h2, h3, h4 {
     }
   }
 }
+
+/* ---- inline CV preview (cv page) ---- */
+.cv-embed {
+  margin: 16px 0 8px;
+  border: 1px solid $hairline;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: 800px;
+    border: 0;
+  }
+}
+
+
+/* mobile browsers generally refuse to render PDFs in an iframe */
+@media (max-width: 767px) {
+  .cv-embed {
+    display: none;
+  }
+
+}
